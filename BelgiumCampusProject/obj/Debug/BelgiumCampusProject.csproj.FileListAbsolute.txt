@@ -1,0 +1,12 @@
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\bin\Debug\BelgiumCampusProject.exe.config
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\bin\Debug\BelgiumCampusProject.exe
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\bin\Debug\BelgiumCampusProject.pdb
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csproj.AssemblyReference.cache
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Form1.resources
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.Properties.Resources.resources
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csproj.GenerateResource.cache
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.csproj.CoreCompileInputs.cache
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.exe
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.pdb
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.PresentationLayer.main.resources
+C:\Users\Junior Mosifane\Documents\PRG281_Project\BelgiumCampusProject\obj\Debug\BelgiumCampusProject.PresentationLayer.ModulesPage.resources
